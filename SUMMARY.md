@@ -13,8 +13,7 @@
 * [Introdução a HTML](html/introducao-html.md)
 * [Tags e elementos](html/tags-elementos.md)
 * [Atributos e valores](html/atributos-e-valores.md)
-* [Títulos](html/titulos.md)
-* [Parágrafos](html/paragrafos.md)
+* [Títulos e Parágrafos](html/titulos-paragrafos.md)
 
 ---
 

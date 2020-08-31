@@ -13,7 +13,7 @@ O documento HTML sempre inicia com o que chamamos de **estrutura básica**, que 
 <html lang="pt-br">
     <head>
         <meta charset="utf-8" />
-        <title>Linguagens de Marcação - HTML</title>
+        <title>Diogo Moreira - Meu site pessoal sobre música</title>
     </head>
     <body>
     
@@ -46,14 +46,14 @@ Retomando o exemplo mostrado anteriormente, preste atenção nas seguintes linha
 
 ```markup
 <meta charset="utf-8" />
-<title>Linguagens de Marcação - HTML</title>
+<title>Diogo Moreira - Meu site pessoal sobre música</title>
 ```
 
 Na primeira linha, a tag `<meta>` representa um metadado. Nesse caso em específico ele está informando ao navegador qual o conjunto de caracteres que iremos usar. Por padrão, usamos **UTF-8**, que nos permite exibir qualquer caractere de qualquer língua, incluindo japonês, chinês, coreano.
 
 Só é possível mostrar "こんにちは", ou seja, **Konnichiwa** \(ou "Olá" em japonês\), porque esse documento está sendo mostrado com o conjunto de caracteres **"UTF-8"**.
 
-Já na segunda linha, temos a tag `<title>` que informa qual o título do nosso site. Porém, esse título nem sempre é exibido para o usuário, por isso ele está dentro de `<head>`. Vamos ao exemplo:
+Já na segunda linha, temos a tag `<title>` que informa qual o título do nosso site. Porém, esse título nem sempre é exibido para o usuário, por isso ele está dentro de `<head>`. Vamos ao exemplo, usando [meu website](https://diogodmoreira.com) como caso de uso:
 
 ![Exemplo de aba no navegador Firefox](../.gitbook/assets/screen-shot-2020-08-31-at-17.55.08.png)
 
