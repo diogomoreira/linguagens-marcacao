@@ -1,7 +1,12 @@
 # Table of contents
 
 * [Linguagens de Marcação](README.md)
-* [Introdução a Linguagens de Marcação](introducao-a-linguagens-de-marcacao.md)
+
+## Linguagens de Marcação
+
+* [Introdução a Linguagens de Marcação](linguagens-de-marcacao/introducao-a-linguagens-de-marcacao.md)
+* [Padronização de tags](linguagens-de-marcacao/padronizacao-de-tags.md)
+* [Exemplo de Linguagem de marcação](linguagens-de-marcacao/exemplo-de-linguagem-de-marcacao.md)
 
 ## HTML
 
