@@ -11,7 +11,8 @@
 ## HTML
 
 * [Introdução a HTML](html/introducao-html.md)
-* [Estrutura e elementos básicos](html/elementos-basicos.md)
+* [Tags](html/tags.md)
+* [Atributos e valores](html/atributos-e-valores.md)
 * [Títulos](html/titulos.md)
 * [Parágrafos](html/paragrafos.md)
 
