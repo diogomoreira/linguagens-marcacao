@@ -30,10 +30,6 @@ A diferença aqui é que:
 
 Pode ser que algum interpretador entenda `<strong>` de outra maneira que não seja negrito. Aqui, strong é usado para dizer que este texto deve ter **ênfase**. Por outro lado, `<b>` sempre será interpretado como negrito. É importante reforçar que existem diversos interpretadores para linguagens de marcação, incluindo tecnologias assistivas, como **Leitores de Tela** para pessoas com deficiência visual. Você pode se informar mais [nesse artigo](https://brasil.uxdesign.cc/acessibilidade-como-funcionam-os-leitores-de-tela-3d9b610216e1).
 
-### 
-
-### Exemplo de linguagens de marcação no dia-a-dia
-
 
 
 
