@@ -10,7 +10,7 @@ Aos que já estão familiarizados com a web, seja no computador ou no celular, s
 
 ### Criando um hyperlink
 
-Um link básico é criado envolvendo o texto \(ou outro conteúdo, como veremos mais adiante\) que você quer transformar em um link dentro de um elemento `<a>`, e dando-lhe um atributo `href`, \(também conhecido como **Hypertext Reference**\) que conterá o endereço da web para o qual você deseja que o link aponte.
+Um link básico é criado envolvendo o texto \(ou outro conteúdo, como veremos mais adiante\) que você quer transformar em um link dentro de um elemento `<a>`, e dando-lhe um URL como valor do atributo `href`, \(também conhecido como **Hypertext Reference**\) que conterá o endereço da web para o qual você deseja que o link aponte.
 
 {% tabs %}
 {% tab title="Código" %}
