@@ -14,6 +14,8 @@
 * [Tags e elementos](html/tags-elementos.md)
 * [Atributos e valores](html/atributos-e-valores.md)
 * [Títulos e Parágrafos](html/titulos-paragrafos.md)
+* [Listas](html/listas.md)
+* [Hyperlinks](html/hyperlinks.md)
 
 ---
 
