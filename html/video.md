@@ -16,7 +16,9 @@ O exemplo de código usa atributos do elemento `<video>`:
 * `autoplay` : Faz com que o vídeo reproduza automaticamente ao carregar a página. Não funciona em alguns navegadores por questões de **permissão**.
 * `loop` : Faz com que o vídeo repita automaticamente.
 
-Outro atributo interessante é o **poster**
+Outro atributo interessante é o `poster`, que define uma imagem estática a ser mostrada antes que o vídeo seja carregado, algo semelhante ao que o Youtube faz com os vídeos enquanto estamos pesquisando.
 
-[https://codesandbox.io/s/05-videos-chs6l?file=/index.html](https://codesandbox.io/s/05-videos-chs6l?file=/index.html)
+Um exemplo de uso de áudio em HTML no Codesandbox pode ser encontrado [aqui](https://codesandbox.io/s/05-videos-chs6l?file=/index.html). Faça experiências com os atributos e com áudios diferentes. É possível buscar vídeos no Youtube com direitos autorais mais permissivos, usando o filtro e definindo a característica **Creative Commons**.
+
+
 
