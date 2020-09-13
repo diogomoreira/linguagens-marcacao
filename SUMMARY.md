@@ -17,6 +17,9 @@
 * [Listas](html/listas.md)
 * [Hyperlinks](html/hyperlinks.md)
 * [URLs](html/urls.md)
+* [Imagens](html/imagens.md)
+* [Áudio](html/audio.md)
+* [Vídeo](html/video.md)
 
 ---
 
