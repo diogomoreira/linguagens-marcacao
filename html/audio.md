@@ -12,10 +12,14 @@ Um exemplo de áudio incorporado em um documento HTML
 
 O atributo `src` pode ser a URL do arquivo de áudio ou o caminho do arquivo no sistema local. O elemento `<p>` dentro de `<audio>` serve como uma exceção, para ser exibido caso o navegador não dê suporte a esse elemento, em casos de computadores ou celulares mais antigos.
 
+{% hint style="info" %}
+Outros formatos além do .mp3 também são suportados, como o .ogg. Realize testes em vários navegadores antes de publicar um site para saber se ao menos a maioria dá suporte ao arquivo de áudio que você está usando.
+{% endhint %}
+
 Agora veja o exemplo abaixo:
 
 ```markup
-<audio src="audio.ogg" controls autoplay loop>
+<audio src="musica.mp3" controls autoplay loop>
     <p>Seu navegador não suporta o elemento audio </p>
 </audio>
 ```
