@@ -20,6 +20,7 @@
 * [Imagens](html/imagens.md)
 * [Áudio](html/audio.md)
 * [Vídeo](html/video.md)
+* [Tabelas](html/tabelas.md)
 
 ---
 
