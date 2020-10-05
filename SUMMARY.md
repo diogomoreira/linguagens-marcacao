@@ -22,6 +22,7 @@
 * [Vídeo](html/video.md)
 * [Tabelas](html/tabelas.md)
 * [Formulários](html/formularios.md)
+* [Metadados](html/metadados.md)
 
 ---
 
