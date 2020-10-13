@@ -27,6 +27,10 @@
 ## CSS
 
 * [Introdução a CSS](css/introducao-a-css.md)
+* [Seletores](css/seletores/README.md)
+  * [Tipo](css/seletores/tipo.md)
+  * [Identificador](css/seletores/identificador.md)
+  * [Classe](css/seletores/classe.md)
 
 ---
 

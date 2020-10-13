@@ -55,5 +55,3 @@ A grande parte desse módulo vai se focar em explorar os **seletores** e demonst
 Nesse ponto, é interessante que você revisite a seção [Atributos e valores](../html/atributos-e-valores.md) para revisar, pois iremos usar esse conceito com mais frequência a partir de agora.
 {% endhint %}
 
-
-
