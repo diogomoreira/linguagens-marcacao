@@ -20,3 +20,14 @@ Uma lista completa com todos os atributos globais pode ser encontrado [aqui](htt
 
 ### Atributos data-\*
 
+Atributos `data-*` \(onde o \* pode ser qualquer coisa\) nos permite armazenar **informações extras** em elementos HTML padrões. A sintaxe é simples, qualquer atributo de qualquer elemento no qual o nome do atributo inicia com `data-` é um atributo data. Digamos que você possui uma lista e quer armazenar informações extras que não possuem nenhuma representação visual, como no exemplo abaixo.
+
+```markup
+<ul>
+    <li data-origem="reino-unido">Arctic Monkeys</li>
+    <li data-origem="estados-unidos">The Strokes</li>
+</ul>
+```
+
+
+
