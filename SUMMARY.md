@@ -31,6 +31,7 @@
   * [Tipo](css/seletores/tipo.md)
   * [Identificador](css/seletores/identificador.md)
   * [Classe](css/seletores/classe.md)
+  * [Atributos](css/seletores/atributos.md)
 
 ---
 

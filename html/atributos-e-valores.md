@@ -18,3 +18,5 @@ Atributos globais se aplicam a todos os elementos HTML, pois eles fornecem infor
 
 Uma lista completa com todos os atributos globais pode ser encontrado [aqui](https://www.w3schools.com/tags/ref_standardattributes.asp).
 
+### Atributos data-\*
+
