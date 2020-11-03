@@ -9,6 +9,8 @@ Todos os elementos dentro de um documento HTML estão estruturados como uma caix
 
 ![Box Model](https://lh5.googleusercontent.com/EwEr2gBZJZf_Mr5RoxCmjaWTQsHVsjlUHPX8V1U8Wb5zUaYJnvGa-ZpHxhEydrpBE1QxudY2Goulg6eTsqabP_IkyCy1UQA3H8dXobfOZaGi777u3_nodS5B66gTbZLxYyC1SiMCDOU)
 
+Nesse exemplo, o **Conteúdo** é o que inserimos de informação dentro de uma tag como `<p>` por exemplo, o texto que irá aparecer para o usuário ao acessar o site. As demais partes são explicadas abaixo:
+
 ### Border / Borda
 
 Estas propriedades são usadas para definir o **estilo**, **cor** e **espessura** da borda do elemento.
