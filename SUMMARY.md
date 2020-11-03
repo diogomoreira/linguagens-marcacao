@@ -36,6 +36,8 @@
   * [Filhos e descendentes](css/seletores/filhos-e-descendentes.md)
   * [Pseudoclasses](css/seletores/pseudoclasses.md)
   * [Negação](css/seletores/negacao.md)
+* [Elementos de bloco e linha](css/elementos-de-bloco-e-linha.md)
+* [Box Model](css/box-model.md)
 
 ---
 
