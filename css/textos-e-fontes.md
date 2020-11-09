@@ -122,5 +122,11 @@ Usada para definir o **peso da fonte**, ou seja, se ela vai ser densa \(bold/**n
 * `normal` \(Sem negrito\)
 * `bold` \(Com negrito\)
 
+### Fontes web
+
+As fontes web \(ou _web fonts_\) proporcionaram uma nova maneira de trabalhar com tipografia na internet. Antigamente, era preciso se limitar às fontes mais comuns, pois se dependia completamente daquelas que o usuário tinha instaladas no computador. Com as web fonts, esta obrigatoriedade é eliminada, sendo possível **usar as fontes que o layout pedir sem precisar se preocupar com compatibilidade.**
+
+Um ótimo site com um conjunto variado de fontes, e com gerador de código é o [**Google Web Fonts**](https://fonts.google.com/).
+
 #### 
 
