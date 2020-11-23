@@ -39,6 +39,8 @@
 * [Elementos de bloco e linha](css/elementos-de-bloco-e-linha.md)
 * [Box Model](css/box-model.md)
 * [Textos e fontes](css/textos-e-fontes.md)
+* [Grid Layout](css/grid-layout.md)
+* [Flexbox](css/flexbox.md)
 
 ---
 
