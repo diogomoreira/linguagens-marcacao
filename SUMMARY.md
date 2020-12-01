@@ -41,6 +41,7 @@
 * [Textos e fontes](css/textos-e-fontes.md)
 * [Grid Layout](css/grid-layout.md)
 * [Flexbox](css/flexbox.md)
+* [Animações](css/animacoes.md)
 
 ---
 
