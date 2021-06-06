@@ -49,7 +49,7 @@ Retomando o exemplo mostrado anteriormente, preste atenção nas seguintes linha
 <title>Diogo Moreira - Meu site pessoal sobre música</title>
 ```
 
-Na primeira linha, a tag `<meta>` representa um metadado. Nesse caso em específico ele está informando ao navegador qual o conjunto de caracteres que iremos usar. Por padrão, usamos **UTF-8**, que nos permite exibir qualquer caractere de qualquer língua, incluindo japonês, chinês, coreano.
+Na primeira linha, a tag `<meta>` representa um metadado. Nesse caso em específico ele está informando ao navegador qual o conjunto de caracteres que iremos usar. Por padrão, usamos **UTF-8**, que nos permite exibir qualquer caractere de qualquer língua, incluindo japonês, chinês, coreano e muitos outros.
 
 Só é possível mostrar "こんにちは", ou seja, **Konnichiwa** \(ou "Olá" em japonês\), porque esse documento está sendo mostrado com o conjunto de caracteres **"UTF-8"**.
 

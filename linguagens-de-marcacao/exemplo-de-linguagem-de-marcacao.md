@@ -1,6 +1,6 @@
 # Exemplo de Linguagem de marcação
 
-Um exemplo que podemos observar de linguagens de marcação são os chamados **feeds RSS**, para assinatura de **notícias**, **podcasts** e etc. Observe o trecho abaixo, que foi retirado do **RSS de notícias do G1 Paraíba.** Você não precisa entender ele por completo agora, mas veja que temos algumas indicações de que isso é uma **notícia**. O conteúdo dentro de `<title>`, por exemplo, nos diz qual o título da notícia.
+Um exemplo que podemos observar de linguagens de marcação são os chamados **feeds RSS**, para assinatura de **notícias**, **podcasts** e etc. Observe o trecho abaixo, que foi retirado do **RSS de notícias do G1 Paraíba.** Você não precisa entender ele por completo agora, mas veja que temos algumas indicações de que isso é uma **notícia**. O conteúdo entre `<title>` e `</title>` por exemplo, nos diz qual o título da notícia.
 
 ```markup
 <item>

@@ -8,6 +8,12 @@
 * [Padronização de tags](linguagens-de-marcacao/padronizacao-de-tags.md)
 * [Exemplo de Linguagem de marcação](linguagens-de-marcacao/exemplo-de-linguagem-de-marcacao.md)
 
+## Material de apoio
+
+* [Ambientes de desenvolvimento](material-de-apoio/ambientes-de-desenvolvimento.md)
+* [Link do Codesandbox](https://codesandbox.io)
+* [Link do Repl.it](https://repl.it/)
+
 ## HTML
 
 * [Introdução a HTML](html/introducao-html.md)
@@ -42,8 +48,4 @@
 * [Grid Layout](css/grid-layout.md)
 * [Flexbox](css/flexbox.md)
 * [Animações](css/animacoes.md)
-
----
-
-* [Codesandbox](https://codesandbox.io)
 

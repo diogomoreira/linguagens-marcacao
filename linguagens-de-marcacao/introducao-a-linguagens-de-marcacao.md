@@ -6,7 +6,7 @@ Existem diversos tipos de linguagem de marcação, para usos e finalidades espec
 
 Como o próprio nome sugere, as Linguagens de Marcação têm como característica principal criar **marcações** \(aqui vamos chamar de _tags_\) para delimitar um texto ou algum elemento de um documento. Uma marca é um tipo de código que **envolve uma palavra ou um trecho de um texto**.
 
-Por exemplo, em HTML um trecho delimitado pelas marcas `<b>` e `</b>` aparecerá em negrito \(o b vem da palavra _bold_, negrito em inglês\), um trecho delimitado pelas marcas `<u>` e `</u>` aparecerá sublinhado \(_underline_\), e um trecho delimitado pelas marcas `<i>` e `</i>` será apresentado em itálico.
+Por exemplo, em HTML um trecho delimitado pelas marcas `<b>` e `</b>` aparecerá em negrito \(o b vem da palavra _**bold**_, negrito em inglês\), um trecho delimitado pelas marcas `<u>` e `</u>` aparecerá sublinhado \(_underline_\), e um trecho delimitado pelas marcas `<i>` e `</i>` será apresentado em itálico.
 
 Geralmente as tags tem seu início delimitado pelo seu nome, entre um sinal de "menor que" e "maior que". Por exemplo, a tag `b` mostrada acima, começa com `<b>`. Já o fim da tag é semelhante, adicionado um `/` antes do nome na tag, como em `</b>`
 
