@@ -2,7 +2,7 @@
 
 Formulários HTML são um dos principais pontos de **interação entre um usuário e um web site ou aplicativo**. Eles permitem que os usuários enviem dados para um website e que ele realize algum processamento com eles. Na maior parte do tempo, os dados são enviados para um **servidor** da web.
 
-Um formulário HTML é feito de um ou mais **componentes**. Podem ser **campos de texto** \(de linha única ou de várias linhas\), caixas de seleção, botões e etc. A maior parte do tempo, estes elementos são emparelhados com uma legenda que descreve o seu objetivo dentro de um formulário.
+Um formulário HTML é feito de um ou mais **componentes**. Podem ser **campos de texto** (de linha única ou de várias linhas), caixas de seleção, botões e etc. A maior parte do tempo, estes elementos são emparelhados com uma legenda que descreve o seu objetivo dentro de um formulário.
 
 {% hint style="warning" %}
 Nesse conteúdo, traduzi quando foi possível e deixei o **termo em inglês** para que ao pesquisar sobre para expandir seu conhecimento você não tenha problemas em achar artigos relacionados.
@@ -12,7 +12,7 @@ Todo formulário começa com a tag `<form>` e encerra com `</form>`. Ao utilizar
 
 ```markup
 <h1>Formulários em HTML</h1>
-<form action="https://formspree.io/xpzowqnw" method="post">
+<form action="https://algumaurl.com" method="post">
   <div>
     <label for="nome">Nome:</label>
     <input name="nome" type="text" />
@@ -29,11 +29,11 @@ Todo formulário começa com a tag `<form>` e encerra com `</form>`. Ao utilizar
 </form>
 ```
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](<../.gitbook/assets/image (3).png>)
 
-### Tag &lt;form&gt;
+### Tag \<form>
 
-O atributo `action` informa que estamos submetendo tudo que for preenchido nesse formulário para o endereço que é passado como valor \(nesse caso, um endereço do Formspree, adiante será explicado o porquê\).
+O atributo `action` informa que estamos submetendo tudo que for preenchido nesse formulário para o endereço que é passado como valor (nesse caso, um endereço do Formspree, adiante será explicado o porquê).
 
 Além disso, ele tem outro atributo chamado `method`, que indica o valor **POST**. Existem dois tipos de métodos para enviar formulários, **GET** e **POST**. Abaixo a explicação de cada um deles:
 
@@ -57,12 +57,12 @@ Utilizamos um endereço do site **formspree.io** porque assim **não precisamos 
 
 Muitos dos elementos usados para definir widgets de formulário têm seus próprios atributos. Entretanto, há um conjunto de atributos comuns a todos os elementos do formulário, os quais permitem certo controle sobre os widgets. Uma lista desses atributos comuns pode ser encontrado abaixo:
 
-| Nome do atributo | Valor padrão | Descrição |
-| :--- | :--- | :--- |
-| `autofocus` | \(falso\) | Este é um atributo booleano \(verdadeiro ou falso\) que permite especificar automaticamente qual elemento deverá ter o foco quando a página carregar. |
-| `disabled` | \(_falso_\) | Este é um atributo booleano que indica que o usuário não pode interagir com este elemento. |
-| `name` |  | O nome do elemento. Este atributo é enviado com os dados do formulário. Não é **obrigatório**, mas é **recomendado**. |
-| `value` |  | O Valor inicial do elemento. |
+| Nome do atributo | Valor padrão | Descrição                                                                                                                                           |
+| ---------------- | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `autofocus`      | (falso)      | Este é um atributo booleano (verdadeiro ou falso) que permite especificar automaticamente qual elemento deverá ter o foco quando a página carregar. |
+| `disabled`       | (_falso_)    | Este é um atributo booleano que indica que o usuário não pode interagir com este elemento.                                                          |
+| `name`           |              | O nome do elemento. Este atributo é enviado com os dados do formulário. Não é **obrigatório**, mas é **recomendado**.                               |
+| `value`          |              | O Valor inicial do elemento.                                                                                                                        |
 
 Como você deve ter percebido no exemplo, todos os campos do formulário estão, cada um, dentro de elementos `<div>` e cada um contem também um elemento `<label>` que os acompanha. Encare a `div` como uma divisão sem significado, por hora. Já o `label` representa uma legenda para um **item em uma interface de usuário**.
 
@@ -76,7 +76,7 @@ Os componentes criados com a tag `<input>` são amplamente utilizados por terem 
 Os componentes para entrada de texto só aceitam textos simples, sem formatações do tipo negrito, itálico, etc.
 {% endhint %}
 
-Um componente de entrada de texto \(**Input Text**\) em uma linha única é feita com `<input` **`type="text"`**`>`. Veja o exemplo de código abaixo ou ele em execução [aqui](https://codesandbox.io/s/07-formularios-v225h). Uma vez que esses campos só aceitam textos de uma linha, qualquer texto que seja colado e tenha mais linhas, terá suas quebras de linhas removidas.
+Um componente de entrada de texto (**Input Text**) em uma linha única é feita com `<input`` `**`type="text"`**`>`. Veja o exemplo de código abaixo ou ele em execução [aqui](https://codesandbox.io/s/07-formularios-v225h). Uma vez que esses campos só aceitam textos de uma linha, qualquer texto que seja colado e tenha mais linhas, terá suas quebras de linhas removidas.
 
 ```markup
 <input type="text" name="comentario">
@@ -107,7 +107,7 @@ Componentes drop-down são uma maneira simples de permitir que o usuário seleci
 
 #### Caixa de seleção simples
 
-Uma caixa de seleção \(**Select Box**\) é criada a partir da tag `<select>` com um ou mais elementos da tag `<option>` dentro dela, cada um especificando um dos possíveis valores. Veja o exemplo abaixo.
+Uma caixa de seleção (**Select Box**) é criada a partir da tag `<select>` com um ou mais elementos da tag `<option>` dentro dela, cada um especificando um dos possíveis valores. Veja o exemplo abaixo.
 
 ```markup
 <select name="simples">
@@ -159,7 +159,7 @@ Por padrão, uma caixa de seleção deixa o usuário escolher apenas um dos valo
 
 ### Componentes "checáveis"
 
-Componentes checáveis são aqueles em que o estado pode ser mudado ao clicar neles. Existem dois tipos em HTML: **Checkbox** e **Radio Button** \(as traduções não ajudaram nesse caso, prefira usar esses termos\).
+Componentes checáveis são aqueles em que o estado pode ser mudado ao clicar neles. Existem dois tipos em HTML: **Checkbox** e **Radio Button** (as traduções não ajudaram nesse caso, prefira usar esses termos).
 
 Para aumentar a usabilidade/acessibilidade do usuário, nesses tipos de componentes, usaremos a tag `<fieldset>` juntamente com a tag `<legend>` para prover uma descrição dos itens que são **relacionados**.
 
@@ -199,7 +199,7 @@ Componentes checáveis do tipo Check Box são criados a partir da tag `<input>` 
 </fieldset>
 ```
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](<../.gitbook/assets/image (5).png>)
 
 Nesse caso, vários itens podem ser selecionados ao mesmo tempo. É o comportamento esperado para esse tipo de componente.
 
@@ -235,11 +235,11 @@ Já os componentes do tipo **Radio Button** são mais usados para seleção de a
 </fieldset>
 ```
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](<../.gitbook/assets/image (6).png>)
 
 ### Botões
 
-Em HTML temos 3 \(três\) tipos de botões possíveis:
+Em HTML temos 3 (três) tipos de botões possíveis:
 
 * **Submit**, que envia os dados do formulário para o que está definido em `action`.
 * **Reset**, que limpa os dados do formulário, deixando todos os componentes em seu estado padrão.
@@ -276,4 +276,3 @@ Um botão é criado usando a tag `<button>` ou um elemento `<input>`. O valor de
 O que foi exibido aqui é apenas uma pequena porção do que pode ser feito com formulários em HTML. Existem formulários que requerem componentes mais ricos em termos de experiência e facilidade de preenchimento, mas esses tópicos estão fora do escopo da disciplina. Mesmo assim, sintam-se a vontade para comentar e perguntar durante as aulas.
 
 Para completar o requisito da página de contato no projeto final da disciplina, tudo que foi mostrado aqui já é suficiente. Crie uma conta no **Formspree** e configure um formulário para seu próprio email e faça os testes. As questões estéticas dos formulários serão vistos no segundo módulo da disciplina, quando falaremos de CSS
-
