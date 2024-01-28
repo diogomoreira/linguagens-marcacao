@@ -21,8 +21,8 @@ Perceba os atributos `data-genero` que trazem informações a mais para os itens
 Embora essas informações não fiquem visíveis para o usuário final, podemos usar isso para estilizar essa lista. Para selecionar um elemento a partir de seu atributo, usaremos a seguinte sintaxe:
 
 * `[attr]` Representa um elemento que tenha um atributo de nome **attr**.
-* `[attr=valor]` Representa um elemento que tenha um atributo de nome **attr**, o qual o valor é exatamente ****igual a **valor** que está declarado após o sinal de `=`.
-* `[attr=~valor]` Representa um elemento com um atributo de nome **attr**, o qual value é uma lista de palavras separadas por espaços \(como no caso das classes\), e uma dessas é exatamente **valor**.
+* `[attr=valor]` Representa um elemento que tenha um atributo de nome **attr**, o qual o valor é exatamente igual a **valor** que está declarado após o sinal de `=`.
+* `[attr=~valor]` Representa um elemento com um atributo de nome **attr**, o qual value é uma lista de palavras separadas por espaços (como no caso das classes), e uma dessas é exatamente **valor**.
 * `[attrˆ=valor]` Representa um elemento com um atributo com nome **attr** que tem um valor com prefixo igual a **valor**.
 * `[attr$=valor]` Representa um elemento com um atributo com nome **attr** que tem um valor com sufixo igual a **valor**.
 * `[attr*=valor]` Representa um elemento com um atributo de nome **attr** o qual valor contém ao menos uma ocorrência de **valor** contido na string.
@@ -64,4 +64,3 @@ Agora veja o exemplo abaixo, estilizando o HTML mostrado anteriormente.
 Cada um dos itens da lista vai ser estilizado de uma maneira diferente. Perceba também que o **primeiro seletor** `[data-genero]` seleciona **todos** de uma vez, já que todos os itens da lista tem esse atributo.
 
 Veja o exemplo completo [aqui](https://codesandbox.io/s/04-seletores-de-atributo-2ptwn).
-

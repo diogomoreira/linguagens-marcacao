@@ -4,7 +4,7 @@ As listas são muito importantes quando precisamos **listar itens no site** e ta
 
 ### Listas não-ordenadas
 
-Uma lista não-ordenada deve sempre começar com a tag `<ul>` \(de **unordered list**\). Dentro dessa lista, iremos adicionar **itens de lista**, com a tag `<li>`. É importante notar que todos os itens de uma determinada lista devem estar dentro do `<ul>` específico dela. Cada item aparece com um pequeno círculo preto antes do texto digitado entre as tags `<li></li>`. Veja o código de exemplo abaixo e o resultado.
+Uma lista não-ordenada deve sempre começar com a tag `<ul>` (de **unordered list**). Dentro dessa lista, iremos adicionar **itens de lista**, com a tag `<li>`. É importante notar que todos os itens de uma determinada lista devem estar dentro do `<ul>` específico dela. Cada item aparece com um pequeno círculo preto antes do texto digitado entre as tags `<li></li>`. Veja o código de exemplo abaixo e o resultado.
 
 {% tabs %}
 {% tab title="Código" %}
@@ -48,9 +48,9 @@ Como falado anteriormente, itens que pertecem a mesma lista devem estar dentro d
 
 ### Listas ordenadas
 
-Já uma lista ordenada serve pra itens que fazem sentido serem colocados em uma ordem específica. Sempre começam com a tag `<ol>`\(de **ordered list**\). Os itens dessa lista continuam usando a mesma tag da lista não-ordenada: `<li>`. Cada item aparece com um número em sequência antes do texto digitado entre as tags `<li></li>`.
+Já uma lista ordenada serve pra itens que fazem sentido serem colocados em uma ordem específica. Sempre começam com a tag `<ol>`(de **ordered list**). Os itens dessa lista continuam usando a mesma tag da lista não-ordenada: `<li>`. Cada item aparece com um número em sequência antes do texto digitado entre as tags `<li></li>`.
 
-Exemplos variam desde uma sequência lógica de filmes a serem assistidos \(**O Senhor dos Anéis: A Sociedade do Anel** deve ser assistido antes de **Senhor dos Anéis: As duas torres**, por exemplo\) até um **ranking de suas bandas favoritas**. Veja os exemplos abaixo
+Exemplos variam desde uma sequência lógica de filmes a serem assistidos (**O Senhor dos Anéis: A Sociedade do Anel** deve ser assistido antes de **Senhor dos Anéis: As duas torres**, por exemplo) até um **ranking de suas bandas favoritas**. Veja os exemplos abaixo
 
 {% tabs %}
 {% tab title="Código" %}
@@ -97,7 +97,5 @@ Uma lista de descrição/definição é uma lista com **termos** e suas descriç
 
 As listas de definição aparecem como um glossário, como falado anteriormente. Mostrando o **termo** sem indentação, enquanto sua **definição** aparece com uma indentação leve, para dar a resposta visual de que é a definição do termo mostrado acima. Veja que a ordem aqui importa, uma vez que os termos e suas respectivas definições devem estar em linhas sequenciais.
 
-![Exemplo de lista de defini&#xE7;&#xE3;o](../.gitbook/assets/screen-shot-2020-09-07-at-18.04.25.png)
-
-
+![Exemplo de lista de definição](<../.gitbook/assets/Screen Shot 2020-09-07 at 18.04.25.png>)
 

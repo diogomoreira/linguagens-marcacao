@@ -17,9 +17,8 @@ Um exemplo que podemos observar de linguagens de marcação são os chamados **f
 </item>
 ```
 
-A maneira como os vários interpretadores veem esse tipo de conteúdo é diferente, um navegador da web vai mostrar de uma maneira, um [**leitor de RSS**](https://www.oficinadanet.com.br/post/11004-alternativas-google-reader) ****de uma outra maneira e assim por diante. Abaixo, a notícia evidenciada no código sendo exibida pelo leitor de rss **Feedly**.
+A maneira como os vários interpretadores veem esse tipo de conteúdo é diferente, um navegador da web vai mostrar de uma maneira, um [**leitor de RSS**](https://www.oficinadanet.com.br/post/11004-alternativas-google-reader) de uma outra maneira e assim por diante. Abaixo, a notícia evidenciada no código sendo exibida pelo leitor de rss **Feedly**.
 
-![Not&#xED;cias do G1 Para&#xED;ba na interface do leitor de RSS Feedly](../.gitbook/assets/screen-shot-2020-08-31-at-14.38.16.png)
+![Notícias do G1 Paraíba na interface do leitor de RSS Feedly](<../.gitbook/assets/Screen Shot 2020-08-31 at 14.38.16.png>)
 
-O importante é que o **conteúdo** é o mesmo. As diferentes formas de **exibir informação** só são possíveis graças as linguagens de marcação. ****Durante o nosso curso iremos aprender a utilizar linguagens de marcação, mais especificamente **HTML**, **CSS** e **XML**. Porém, entendendo os conceitos que iremos ver na disciplina, será fácil entender outras linguagens caso você precise na sua vida profissional.
-
+O importante é que o **conteúdo** é o mesmo. As diferentes formas de **exibir informação** só são possíveis graças as linguagens de marcação. Durante o nosso curso iremos aprender a utilizar linguagens de marcação, mais especificamente **HTML**, **CSS** e **XML**. Porém, entendendo os conceitos que iremos ver na disciplina, será fácil entender outras linguagens caso você precise na sua vida profissional.

@@ -29,7 +29,7 @@ Todo formulário começa com a tag `<form>` e encerra com `</form>`. Ao utilizar
 </form>
 ```
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (4).png>)
 
 ### Tag \<form>
 
@@ -39,7 +39,7 @@ Além disso, ele tem outro atributo chamado `method`, que indica o valor **POST*
 
 * O **GET** passa variáveis por URL, é útil para você compartilhar uma página de um produto, uma busca em um site ou um endereço de uma rede social. Quando solicitamos um endereço pra um navegador, ele realiza uma operação do tipo **GET**. Veja a imagem abaixo, onde ao digitar os termos de busca e clicar na lupa, o endereço do navegador **exibe** o que estava no formulário dentro da URL.
 
-![](../.gitbook/assets/screen-shot-2020-09-27-at-15.43.03.png)
+![](<../.gitbook/assets/Screen Shot 2020-09-27 at 15.43.03.png>)
 
 * Com **POST** você não pode fazer essas coisas citadas acima, pois os dados são enviados no corpo da requisição **HTTP**. É ideal para **formulários de login**, **cadastros** e envio de arquivos, que não é possível com **GET**.
 
@@ -117,7 +117,7 @@ Uma caixa de seleção (**Select Box**) é criada a partir da tag `<select>` com
 </select>
 ```
 
-![](../.gitbook/assets/screen-shot-2020-09-27-at-17.17.23.png)
+![](<../.gitbook/assets/Screen Shot 2020-09-27 at 17.17.23.png>)
 
 Caso necessário, o valor padrão para uma caixa de seleção pode ser definido usando o atributo `selected` na opção desejada, para que seja **pré-selecionada quando a página carregar**. Além disso, é possível organizar as opções dentro de subgrupos, utilizando a tag `<optgroup>`, como no exemplo abaixo.
 
@@ -135,7 +135,7 @@ Caso necessário, o valor padrão para uma caixa de seleção pode ser definido 
 </select>
 ```
 
-![](../.gitbook/assets/screen-shot-2020-09-27-at-17.18.22.png)
+![](<../.gitbook/assets/Screen Shot 2020-09-27 at 17.18.22.png>)
 
 #### Caixa de seleção múltipla
 
@@ -155,7 +155,7 @@ Por padrão, uma caixa de seleção deixa o usuário escolher apenas um dos valo
 </select>
 ```
 
-![](../.gitbook/assets/screen-shot-2020-09-27-at-17.18.52.png)
+![](<../.gitbook/assets/Screen Shot 2020-09-27 at 17.18.52.png>)
 
 ### Componentes "checáveis"
 
@@ -199,7 +199,7 @@ Componentes checáveis do tipo Check Box são criados a partir da tag `<input>` 
 </fieldset>
 ```
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (14).png>)
 
 Nesse caso, vários itens podem ser selecionados ao mesmo tempo. É o comportamento esperado para esse tipo de componente.
 
@@ -235,7 +235,7 @@ Já os componentes do tipo **Radio Button** são mais usados para seleção de a
 </fieldset>
 ```
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (9).png>)
 
 ### Botões
 
